@@ -1,0 +1,10 @@
+{
+  "fileData":{
+    "evaluatorDir":"",
+    "evaluatorPath":"",
+    "standardFileDir":"",
+    "standardFilePath":"../../../../data/chip2023/baichuan13b-chat-chip2023-lr2e4-bs4-grad4/pred-ckp10250-pred/results.json",
+    "userFileDir":"",
+    "userFilePath":"../../../../data/chip2023/baichuan13b-chat-chip2023-lr2e4-bs4-grad4/pred-ckp20500-pred/results.json"
+  }
+}

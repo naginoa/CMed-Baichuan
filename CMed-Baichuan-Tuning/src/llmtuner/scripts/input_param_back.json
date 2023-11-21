@@ -1,0 +1,10 @@
+{
+  "fileData":{
+    "evaluatorDir":"",
+    "evaluatorPath":"",
+    "standardFileDir":"",
+    "standardFilePath":"../../../data/CHIP2023/chip/dev_structured.json",
+    "userFileDir":"",
+    "userFilePath":"../../../../data/chip2023/chip2023-lr2e4-bs4-grad4/pred-ckp25500-dev/dev_results.json"
+  }
+}
